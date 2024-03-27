@@ -54,7 +54,7 @@ def o():
     if CYBER == 'A':
     	C1()
     if me in ["1", "01","11","A","a"]:
-	   os.system('clear')
+	   #os.system('clear')
         None('\n\x1b[1;31mEXIT\x1b[0;97m')
         
 
